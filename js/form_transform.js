@@ -1,0 +1,4 @@
+
+function T(fid,option){
+	
+}
