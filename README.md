@@ -21,7 +21,8 @@ return  an object or  json string code
 
 {t1:"1",t2:"2",t3:"3",t4:array("4","5"),t5:array("4","5")}
 
-
+url example:
+t1=1&t2=2&t3=3&t4[]=4&t4[]=5
 or
 
 <input name="t1" type="" value="1">
